@@ -13,3 +13,5 @@ const fn = (a, b) => {
 
   return result;
 }
+
+// console.log(fn(a, b)) //[1,3,4]

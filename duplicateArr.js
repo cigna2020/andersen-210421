@@ -5,3 +5,5 @@
 Array.prototype.duplicate = function () {
   return this + ',' + this;
 };
+
+// console.log(a.duplicate())
